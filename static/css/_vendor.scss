@@ -1,0 +1,28 @@
+.btn-primary,
+.btn-outline-primary {
+  background-color: $primary-color;
+  border: none;
+  color: white;
+
+  &:hover,
+  &:active,
+  &:focus {
+    background-color: $primary-color !important;
+  }
+}
+
+.navbar {
+  padding: 1rem 3em;
+
+  .nav-item {
+    margin: 0em 1em;
+    .nav-link {
+      color: black;
+      opacity: 0.9;
+    }
+  }
+}
+
+body {
+  background-color: whitesmoke;
+}
