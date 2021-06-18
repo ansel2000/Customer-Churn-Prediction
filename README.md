@@ -47,8 +47,8 @@ This project covers the following topics
 
 [Dataset Used](https://www.kaggle.com/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction)
 
--   Description
-    ⋅⋅⋅The data set belongs to a leading online E-Commerce company. An online retail (E commerce) company wants to know the customers who are going to churn, so accordingly they can approach customer to offer some promos.
+- Description
+   * The data set belongs to a leading online E-Commerce company. An online retail (E commerce) company wants to know the customers who are going to churn, so accordingly they can approach customer to offer some promos.
 
 #### Note:
 
