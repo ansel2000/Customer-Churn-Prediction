@@ -21,16 +21,16 @@ This project covers the following topics
 
 ## Technologies used
 
--   Frontend - HTML, CSS, JS
--   Frameworks - Django
--   Machine Learning Algorithms
-    Linear Discriminant Analysis
-    Decision Tree
-    Random Forest
-    XGBoost
-    Making a Pipeline
-    CNN
--   Package managers - pip
+- Frontend - HTML, CSS, JS
+- Frameworks - Django
+- Machine Learning Algorithms
+    * Linear Discriminant Analysis
+    * Decision Tree
+    * Random Forest
+    * XGBoost
+    * Making a Pipeline
+    * CNN
+-   * Package managers - pip
 
 ## Dependencies
 
@@ -58,24 +58,24 @@ The `Mini_Proj.ipynb` file contains all the code used in cleaning the data and m
 
 ## To-do
 
--   [x] -   Data Cleaning and Pre-processing
-        -   [x] -   Handle missing values (replacing with median value)
-        -   [x] -   Categorical and Numeric Data Identification
-        -   [x] -   Plotting Data Feartures (For Understanding)
-        -   [x] -   One Hot Encoding (Nominal to Numeric conversion)
-        -   [x] -   Data Scaling
-        -   [x] -   Analysing the Churn by each Variable - Visualising via Graphs
--   [x] -   Model Training - Repeated for different Algorithms
-        -   [x] -   Train Model based on processed Data
-        -   [x] -   Model Validation on Test Data
-        -   [x] -   Model Score (Precision, recall f1-score, support)
-        -   [x] -   Confusion Matrix
-        -   [x] -   Model Comparison
--   [x] -   Exporting Model
-        -   [x] -   Exporting Model Weights
-        -   [x] -   Creating Data Pipeline
--   [x] -   Web Applicaion
-        -   [x] -   Creating an Ecommerce Website Frontend
-        -   [x] -   Loading trained model weights and Pipeline
-        -   [x] -   Creating Database containing customer churn with unknown churn.
-        -   [x] -   Prediction of Churn and Coupon Display on Homepage
+- [x] -   Data Cleaning and Pre-processing
+    - [x] - Handle missing values (replacing with median value)
+    - [x] - Categorical and Numeric Data Identification
+    - [x] - Plotting Data Feartures (For Understanding)
+    - [x] - One Hot Encoding (Nominal to Numeric conversion)
+    - [x] - Data Scaling
+    - [x] - Analysing the Churn by each Variable - Visualising via Graphs
+- [x] -   Model Training - Repeated for different Algorithms
+    - [x] - Train Model based on processed Data
+    - [x] - Model Validation on Test Data
+    - [x] - Model Score (Precision, recall f1-score, support)
+    - [x] - Confusion Matrix
+    - [x] - Model Comparison
+- [x] -   Exporting Model
+    - [x] - Exporting Model Weights
+    - [x] - Creating Data Pipeline
+- [x] -   Web Applicaion
+    - [x] - Creating an Ecommerce Website Frontend
+    - [x] - Loading trained model weights and Pipeline
+    - [x] - Creating Database containing customer churn with unknown churn.
+    - [x] - Prediction of Churn and Coupon Display on Homepage
