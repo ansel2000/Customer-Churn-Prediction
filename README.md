@@ -1,4 +1,4 @@
-# Customer Churn to facilitate market using Djamgo and CNN
+# Customer Churn to facilitate market using Django and CNN
 
 #### Please go through entire readme for complete project specifications
 
