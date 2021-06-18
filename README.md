@@ -54,7 +54,7 @@ This project covers the following topics
 
 The `dataset file`, `trained model weights` and the `pipeline that does data preprocessing`.
 
-The `Mini_Proj.ipynb` file contains all the code used in cleaning the data and model validation.
+The [Mini_Proj.ipynb](https://github.com/ansel2000/Customer-Churn-Prediction/blob/main/Mini_Proj.ipynb) file contains all the code used in cleaning the data and model validation.
 
 ## To-do
 
