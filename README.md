@@ -7,9 +7,9 @@ Semster 6 Mini Project. This project aims to analyze the dataset provided contai
 This project covers the following topics
 
 -   Data Preprocessing
-    ..._ OneHotEncoding
-    ..._ Data Scaling
-    ...\* Outlier Analysis
+    ... OneHotEncoding
+    ... Data Scaling
+    ...* Outlier Analysis
 -   Machine Learning
     ..._ Training
     ..._ Validation
