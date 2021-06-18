@@ -7,12 +7,12 @@ Semster 6 Mini Project. This project aims to analyze the dataset provided contai
 This project covers the following topics
 
 -   Data Preprocessing
-    ... OneHotEncoding
-    ... Data Scaling
-    ...* Outlier Analysis
+        OneHotEncoding
+        Data Scaling
+        Outlier Analysis
 -   Machine Learning
-    ..._ Training
-    ..._ Validation
+        Training
+        Validation
 -   Web apps using Django
 
 ### Resources:
@@ -24,12 +24,12 @@ This project covers the following topics
 -   Frontend - HTML, CSS, JS
 -   Frameworks - Django
 -   Machine Learning Algorithms
-    ..._ Linear Discriminant Analysis
-    ..._ Decision Tree
-    ..._ Random Forest
-    ..._ XGBoost
-    ..._ Making a Pipeline
-    ..._ CNN
+        Linear Discriminant Analysis
+        Decision Tree
+        Random Forest
+        XGBoost
+        Making a Pipeline
+        CNN
 -   Package managers - pip
 
 ## Dependencies
