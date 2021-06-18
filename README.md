@@ -6,14 +6,14 @@ Semster 6 Mini Project. This project aims to analyze the dataset provided contai
 
 This project covers the following topics
 
--   Data Preprocessing
-        * OneHotEncoding
-        * Data Scaling
-        * Outlier Analysis
--   Machine Learning
-        * Training
-        * Validation
--   Web apps using Django
+- Data Preprocessing
+    * OneHotEncoding
+    * Data Scaling
+    * Outlier Analysis
+- Machine Learning
+    * Training
+    * Validation
+- Web apps using Django
 
 ### Resources:
 
